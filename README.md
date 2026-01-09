@@ -1,7 +1,5 @@
 "# WeIntern-TASK1-Student-Management-System" 
 
-Here is a clean and professional **README.md** you can use for your project:
-
 ---
 
 # Student Management System (Java)
@@ -101,14 +99,7 @@ Task1_StudentManagementSystem.java
 
 ---
 
-## 👨‍💻 Author
 
-**Student Management System**
-Developed as a Java practice project to demonstrate core programming and OOP skills.
-
----
-
-If you want, I can also:
 
 * Simplify it for beginners
 * Add screenshots section
